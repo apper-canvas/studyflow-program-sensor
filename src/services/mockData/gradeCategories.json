@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "name": "homework",
+    "weight": 20,
+    "courseId": "1"
+  },
+  {
+    "Id": 2,
+    "name": "midterm",
+    "weight": 30,
+    "courseId": "1"
+  },
+  {
+    "Id": 3,
+    "name": "final",
+    "weight": 40,
+    "courseId": "1"
+  },
+  {
+    "Id": 4,
+    "name": "participation",
+    "weight": 10,
+    "courseId": "1"
+  },
+  {
+    "Id": 5,
+    "name": "assignments",
+    "weight": 40,
+    "courseId": "2"
+  },
+  {
+    "Id": 6,
+    "name": "projects",
+    "weight": 35,
+    "courseId": "2"
+  },
+  {
+    "Id": 7,
+    "name": "exams",
+    "weight": 25,
+    "courseId": "2"
+  },
+  {
+    "Id": 8,
+    "name": "essays",
+    "weight": 40,
+    "courseId": "3"
+  },
+  {
+    "Id": 9,
+    "name": "quizzes",
+    "weight": 30,
+    "courseId": "3"
+  },
+  {
+    "Id": 10,
+    "name": "final",
+    "weight": 20,
+    "courseId": "3"
+  },
+  {
+    "Id": 11,
+    "name": "participation",
+    "weight": 10,
+    "courseId": "3"
+  },
+  {
+    "Id": 12,
+    "name": "lab_reports",
+    "weight": 50,
+    "courseId": "4"
+  },
+  {
+    "Id": 13,
+    "name": "midterm",
+    "weight": 25,
+    "courseId": "4"
+  },
+  {
+    "Id": 14,
+    "name": "final",
+    "weight": 25,
+    "courseId": "4"
+  }
+]

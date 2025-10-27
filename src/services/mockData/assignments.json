@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "title": "Differential Equations Problem Set",
+    "courseId": "1",
+    "dueDate": "2024-02-15T23:59:00",
+    "priority": "high",
+    "completed": false,
+    "score": null,
+    "maxScore": 100,
+    "category": "homework",
+    "notes": "Focus on separation of variables and integrating factors"
+  },
+  {
+    "Id": 2,
+    "title": "Binary Search Tree Implementation",
+    "courseId": "2",
+    "dueDate": "2024-02-20T11:59:00",
+    "priority": "high",
+    "completed": false,
+    "score": null,
+    "maxScore": 100,
+    "category": "assignments",
+    "notes": "Implement insert, delete, and search operations"
+  },
+  {
+    "Id": 3,
+    "title": "Renaissance Art Essay",
+    "courseId": "3",
+    "dueDate": "2024-02-25T23:59:00",
+    "priority": "medium",
+    "completed": false,
+    "score": null,
+    "maxScore": 100,
+    "category": "essays",
+    "notes": "Compare Michelangelo and Leonardo da Vinci techniques"
+  },
+  {
+    "Id": 4,
+    "title": "Organic Synthesis Lab Report",
+    "courseId": "4",
+    "dueDate": "2024-02-18T17:00:00",
+    "priority": "high",
+    "completed": false,
+    "score": null,
+    "maxScore": 50,
+    "category": "lab_reports",
+    "notes": "Include mechanism diagrams and yield calculations"
+  },
+  {
+    "Id": 5,
+    "title": "Integration Techniques Quiz",
+    "courseId": "1",
+    "dueDate": "2024-02-12T10:00:00",
+    "priority": "low",
+    "completed": true,
+    "score": 95,
+    "maxScore": 100,
+    "category": "homework",
+    "notes": ""
+  },
+  {
+    "Id": 6,
+    "title": "Linked Lists Project",
+    "courseId": "2",
+    "dueDate": "2024-02-10T23:59:00",
+    "priority": "medium",
+    "completed": true,
+    "score": 88,
+    "maxScore": 100,
+    "category": "projects",
+    "notes": "Implement doubly linked list with iterator"
+  },
+  {
+    "Id": 7,
+    "title": "WWI Causes Analysis",
+    "courseId": "3",
+    "dueDate": "2024-02-08T23:59:00",
+    "priority": "low",
+    "completed": true,
+    "score": 92,
+    "maxScore": 100,
+    "category": "essays",
+    "notes": "Focus on economic and political factors"
+  },
+  {
+    "Id": 8,
+    "title": "Crystallization Experiment",
+    "courseId": "4",
+    "dueDate": "2024-02-05T17:00:00",
+    "priority": "low",
+    "completed": true,
+    "score": 45,
+    "maxScore": 50,
+    "category": "lab_reports",
+    "notes": "Excellent technique and observations"
+  }
+]

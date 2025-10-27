@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "name": "Advanced Calculus",
+    "instructor": "Dr. Sarah Chen",
+    "color": "#4F46E5",
+    "gradeWeight": {
+      "homework": 20,
+      "midterm": 30,
+      "final": 40,
+      "participation": 10
+    },
+    "currentGrade": 92.5,
+    "credits": 4
+  },
+  {
+    "Id": 2,
+    "name": "Data Structures",
+    "instructor": "Prof. Michael Rodriguez",
+    "color": "#7C3AED",
+    "gradeWeight": {
+      "assignments": 40,
+      "projects": 35,
+      "exams": 25
+    },
+    "currentGrade": 88.7,
+    "credits": 3
+  },
+  {
+    "Id": 3,
+    "name": "World History",
+    "instructor": "Dr. Emily Watson",
+    "color": "#10B981",
+    "gradeWeight": {
+      "essays": 40,
+      "quizzes": 30,
+      "final": 20,
+      "participation": 10
+    },
+    "currentGrade": 94.2,
+    "credits": 3
+  },
+  {
+    "Id": 4,
+    "name": "Chemistry Lab",
+    "instructor": "Dr. James Liu",
+    "color": "#F59E0B",
+    "gradeWeight": {
+      "lab_reports": 50,
+      "midterm": 25,
+      "final": 25
+    },
+    "currentGrade": 86.8,
+    "credits": 2
+  }
+]
