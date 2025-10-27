@@ -9,8 +9,8 @@ const Calendar = lazy(() => import("@/components/pages/Calendar"));
 const Schedule = lazy(() => import("@/components/pages/Schedule"));
 const Courses = lazy(() => import("@/components/pages/Courses"));
 const Grades = lazy(() => import("@/components/pages/Grades"));
+const Students = lazy(() => import("@/components/pages/Students"));
 const NotFound = lazy(() => import("@/components/pages/NotFound"));
-
 const mainRoutes = [
   {
     path: "",
@@ -58,6 +58,14 @@ const mainRoutes = [
     element: (
       <Suspense fallback={<div>Loading.....</div>}>
         <Grades />
+      </Suspense>
+    )
+  },
+{
+    path: "students",
+    element: (
+      <Suspense fallback={<div>Loading.....</div>}>
+        <Students />
       </Suspense>
     )
   },

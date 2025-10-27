@@ -1,0 +1,80 @@
+[
+  {
+    "Id": 1,
+    "firstName": "Emma",
+    "lastName": "Johnson",
+    "email": "emma.johnson@university.edu",
+    "studentId": "STU001",
+    "major": "Computer Science",
+    "year": "Junior",
+    "gpa": 3.8,
+    "enrollmentDate": "2022-09-01",
+    "phoneNumber": "(555) 123-4567",
+    "status": "Active"
+  },
+  {
+    "Id": 2,
+    "firstName": "Liam",
+    "lastName": "Martinez",
+    "email": "liam.martinez@university.edu",
+    "studentId": "STU002",
+    "major": "Business Administration",
+    "year": "Senior",
+    "gpa": 3.6,
+    "enrollmentDate": "2021-09-01",
+    "phoneNumber": "(555) 234-5678",
+    "status": "Active"
+  },
+  {
+    "Id": 3,
+    "firstName": "Sophia",
+    "lastName": "Chen",
+    "email": "sophia.chen@university.edu",
+    "studentId": "STU003",
+    "major": "Engineering",
+    "year": "Sophomore",
+    "gpa": 3.9,
+    "enrollmentDate": "2023-09-01",
+    "phoneNumber": "(555) 345-6789",
+    "status": "Active"
+  },
+  {
+    "Id": 4,
+    "firstName": "Noah",
+    "lastName": "Williams",
+    "email": "noah.williams@university.edu",
+    "studentId": "STU004",
+    "major": "Psychology",
+    "year": "Freshman",
+    "gpa": 3.5,
+    "enrollmentDate": "2024-09-01",
+    "phoneNumber": "(555) 456-7890",
+    "status": "Active"
+  },
+  {
+    "Id": 5,
+    "firstName": "Olivia",
+    "lastName": "Brown",
+    "email": "olivia.brown@university.edu",
+    "studentId": "STU005",
+    "major": "Biology",
+    "year": "Junior",
+    "gpa": 3.7,
+    "enrollmentDate": "2022-09-01",
+    "phoneNumber": "(555) 567-8901",
+    "status": "Active"
+  },
+  {
+    "Id": 6,
+    "firstName": "Ethan",
+    "lastName": "Davis",
+    "email": "ethan.davis@university.edu",
+    "studentId": "STU006",
+    "major": "Mathematics",
+    "year": "Senior",
+    "gpa": 3.4,
+    "enrollmentDate": "2021-09-01",
+    "phoneNumber": "(555) 678-9012",
+    "status": "On Leave"
+  }
+]

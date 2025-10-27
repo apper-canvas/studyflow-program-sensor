@@ -38,11 +38,17 @@ const Sidebar = ({ className }) => {
       icon: "BookOpen",
       description: "Course management"
     },
-    {
+{
       name: "Grades",
       href: "/grades",
       icon: "Award",
       description: "Track performance"
+    },
+    {
+      name: "Students",
+      href: "/students",
+      icon: "Users",
+      description: "Manage student profiles"
     }
   ];
 

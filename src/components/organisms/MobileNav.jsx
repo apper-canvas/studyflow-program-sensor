@@ -26,10 +26,15 @@ const MobileNav = ({ className }) => {
       href: "/courses",
       icon: "BookOpen"
     },
-    {
+{
       name: "Grades",
       href: "/grades",
       icon: "Award"
+    },
+    {
+      name: "Students",
+      href: "/students",
+      icon: "Users"
     }
   ];
 
