@@ -20,11 +20,17 @@ const Sidebar = ({ className }) => {
       icon: "FileText",
       description: "Manage tasks & deadlines"
     },
-    {
+{
       name: "Calendar",
       href: "/calendar",
       icon: "Calendar",
       description: "View upcoming dates"
+    },
+    {
+      name: "Schedule",
+      href: "/schedule",
+      icon: "Clock",
+      description: "Weekly class schedule"
     },
     {
       name: "Courses",

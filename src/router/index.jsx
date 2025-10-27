@@ -6,6 +6,7 @@ import Layout from "@/components/organisms/Layout";
 const Dashboard = lazy(() => import("@/components/pages/Dashboard"));
 const Assignments = lazy(() => import("@/components/pages/Assignments"));
 const Calendar = lazy(() => import("@/components/pages/Calendar"));
+const Schedule = lazy(() => import("@/components/pages/Schedule"));
 const Courses = lazy(() => import("@/components/pages/Courses"));
 const Grades = lazy(() => import("@/components/pages/Grades"));
 const NotFound = lazy(() => import("@/components/pages/NotFound"));
@@ -28,11 +29,19 @@ const mainRoutes = [
       </Suspense>
     )
   },
-  {
+{
     path: "calendar",
     element: (
       <Suspense fallback={<div>Loading.....</div>}>
         <Calendar />
+      </Suspense>
+    )
+  },
+  {
+    path: "schedule",
+    element: (
+      <Suspense fallback={<div>Loading.....</div>}>
+        <Schedule />
       </Suspense>
     )
   },

@@ -1,0 +1,134 @@
+[
+  {
+    "Id": 1,
+    "courseId": "1",
+    "dayOfWeek": 1,
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "roomNumber": "CS-201",
+    "building": "Computer Science Building",
+    "instructor": "Dr. Smith",
+    "sessionType": "Lecture"
+  },
+  {
+    "Id": 2,
+    "courseId": "1",
+    "dayOfWeek": 3,
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "roomNumber": "CS-201",
+    "building": "Computer Science Building",
+    "instructor": "Dr. Smith",
+    "sessionType": "Lecture"
+  },
+  {
+    "Id": 3,
+    "courseId": "1",
+    "dayOfWeek": 5,
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "roomNumber": "CS-LAB-101",
+    "building": "Computer Science Building",
+    "instructor": "TA Johnson",
+    "sessionType": "Lab"
+  },
+  {
+    "Id": 4,
+    "courseId": "2",
+    "dayOfWeek": 2,
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "roomNumber": "MATH-305",
+    "building": "Mathematics Building",
+    "instructor": "Prof. Davis",
+    "sessionType": "Lecture"
+  },
+  {
+    "Id": 5,
+    "courseId": "2",
+    "dayOfWeek": 4,
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "roomNumber": "MATH-305",
+    "building": "Mathematics Building",
+    "instructor": "Prof. Davis",
+    "sessionType": "Lecture"
+  },
+  {
+    "Id": 6,
+    "courseId": "3",
+    "dayOfWeek": 1,
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "roomNumber": "PHY-202",
+    "building": "Physics Building",
+    "instructor": "Dr. Wilson",
+    "sessionType": "Lecture"
+  },
+  {
+    "Id": 7,
+    "courseId": "3",
+    "dayOfWeek": 3,
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "roomNumber": "PHY-202",
+    "building": "Physics Building",
+    "instructor": "Dr. Wilson",
+    "sessionType": "Lecture"
+  },
+  {
+    "Id": 8,
+    "courseId": "3",
+    "dayOfWeek": 2,
+    "startTime": "15:00",
+    "endTime": "17:00",
+    "roomNumber": "PHY-LAB-105",
+    "building": "Physics Building",
+    "instructor": "TA Anderson",
+    "sessionType": "Lab"
+  },
+  {
+    "Id": 9,
+    "courseId": "4",
+    "dayOfWeek": 2,
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "roomNumber": "ENG-401",
+    "building": "Engineering Building",
+    "instructor": "Prof. Martinez",
+    "sessionType": "Lecture"
+  },
+  {
+    "Id": 10,
+    "courseId": "4",
+    "dayOfWeek": 4,
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "roomNumber": "ENG-401",
+    "building": "Engineering Building",
+    "instructor": "Prof. Martinez",
+    "sessionType": "Lecture"
+  },
+  {
+    "Id": 11,
+    "courseId": "5",
+    "dayOfWeek": 1,
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "roomNumber": "HIST-210",
+    "building": "Humanities Building",
+    "instructor": "Dr. Thompson",
+    "sessionType": "Lecture"
+  },
+  {
+    "Id": 12,
+    "courseId": "5",
+    "dayOfWeek": 3,
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "roomNumber": "HIST-210",
+    "building": "Humanities Building",
+    "instructor": "Dr. Thompson",
+    "sessionType": "Lecture"
+  }
+]
